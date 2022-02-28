@@ -1,0 +1,3 @@
+﻿  SQLInjectionMilestone.cpp
+c:\users\danie\source\repos\sqlinjectionmilestone\sqlinjectionmilestone\sqlinjectionmilestone.cpp(199): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SQLInjectionMilestone.vcxproj -> C:\Users\Danie\source\repos\SQLInjectionMilestone\Debug\SQLInjectionMilestone.exe

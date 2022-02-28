@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test.cpp
+c:\users\danie\source\repos\unittest\unittest\test.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\danie\source\repos\unittest\unittest\test.cpp(174): warning C4018: '>': signed/unsigned mismatch
+c:\users\danie\source\repos\unittest\unittest\test.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\danie\source\repos\unittest\unittest\test.cpp(247): warning C4018: '>': signed/unsigned mismatch
+  UnitTest.vcxproj -> C:\Users\Danie\source\repos\UnitTest\Debug\UnitTest.exe
